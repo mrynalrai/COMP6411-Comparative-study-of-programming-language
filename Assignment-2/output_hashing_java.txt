@@ -1,0 +1,24 @@
+Statistics for Hashing with JAVA
+
+Number of elements: 998676
+Reading file execution time: 934.5115 milliseconds
+Hashing execution time 142.7769 milliseconds
+Memory Used for create hash table: 361 megabytes
+
+
+Search in Hash Table
+
+681736564  founded in 0.0022 milliseconds with 1 number of accesses.
+681730000  not founded in 0.001 milliseconds with 1 number of accesses.
+706054802  founded in 6.0E-4 milliseconds with 1 number of accesses.
+999999720  not founded in 9.0E-4 milliseconds with 2 number of accesses.
+159448327  founded in 5.0E-4 milliseconds with 1 number of accesses.
+320003781  founded in 0.001 milliseconds with 2 number of accesses.
+557779000  not founded in 9.0E-4 milliseconds with 3 number of accesses.
+703637459  founded in 4.0E-4 milliseconds with 1 number of accesses.
+254515928  not founded in 0.001 milliseconds with 1 number of accesses.
+463654484  not founded in 4.0E-4 milliseconds with 1 number of accesses.
+
+Average time for successful search is 9.400000000000001E-4 milliseconds
+Average time for un-successful search is 8.399999999999999E-4 milliseconds
+Average time for total search is 0.00178 milliseconds

@@ -1,0 +1,27 @@
+
+
+Statistics for Binary Search Tree with JAVA
+
+Number of elements: 998676
+Maximum depth of the Binary Search Tree: 50
+Reading file execution time 1018.6572 milliseconds
+Binary Search Tree creation time 515.9653 milliseconds
+Used memory is megabytes: 249
+
+
+Search in Binary Search Tree
+
+681736564  founded in 0.0045 milliseconds with 8 number of accesses.
+681730000  not founded in 2400.0 milliseconds with 18 number of accesses.
+706054802  founded in 0.007299999999999999 milliseconds with 25 number of accesses.
+999999720  not founded in 1700.0 milliseconds with 16 number of accesses.
+159448327  founded in 0.0093 milliseconds with 19 number of accesses.
+320003781  founded in 0.009899999999999999 milliseconds with 5 number of accesses.
+557779000  not founded in 3100.0 milliseconds with 31 number of accesses.
+703637459  founded in 0.0149 milliseconds with 27 number of accesses.
+254515928  not founded in 2900.0 milliseconds with 28 number of accesses.
+463654484  not founded in 2300.0 milliseconds with 28 number of accesses.
+
+Average time for successful search is 0.00298 millisecond
+Average time for un-successful search is 460.0 millisecond
+Average time for total search is 460.00298 millisecond

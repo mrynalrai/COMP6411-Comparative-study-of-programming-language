@@ -1,0 +1,21 @@
+Statistics Hash Table in Python
+
+HashTable size:998116
+Time to populate data in hash table:4761.1989 milliseconds
+Memory required to populate data in hash table:247.043224 MB
+
+Search Statistics
+
+681736564 founded in 0.004299999999624049 milliseconds with 1 number of accesses.
+681730000 not founded in 0.0029000000001389026 milliseconds with 1 number of accesses.
+706054802 founded in 0.00219999999995224 milliseconds with 1 number of accesses.
+999999720 not founded in 0.0027999999998584713 milliseconds with 2 number of accesses.
+159448327 founded in 0.0017999999997186933 milliseconds with 1 number of accesses.
+320003781 founded in 0.002600000000185787 milliseconds with 2 number of accesses.
+557779000 not founded in 0.0039999999996709334 milliseconds with 3 number of accesses.
+703637459 founded in 0.002099999999671809 milliseconds with 1 number of accesses.
+254515928 not founded in 0.002299999999344493 milliseconds with 1 number of accesses.
+463654484 not founded in 0.0018999999999991246 milliseconds with 1 number of accesses.
+
+Average successfull search time:0.0025999999998305157 milliseconds
+Average un successfull search time:0.002779999999802385 milliseconds

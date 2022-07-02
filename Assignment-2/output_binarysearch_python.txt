@@ -1,0 +1,61 @@
+_________________________________________________
+Is the 681736564 present in the list? True
+Number of accesses required to search: 8
+
+Time required to search:1.030900 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 681730000 present in the list? False
+Number of accesses required to search: 18
+Time required to search:0.651100 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 706054802 present in the list? True
+Number of accesses required to search: 25
+
+Time required to search:0.665700 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 999999720 present in the list? False
+Number of accesses required to search: 16
+Time required to search:0.707300 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 159448327 present in the list? True
+Number of accesses required to search: 19
+
+Time required to search:0.604600 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 320003781 present in the list? True
+Number of accesses required to search: 5
+
+Time required to search:0.571200 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 557779000 present in the list? False
+Number of accesses required to search: 31
+Time required to search:0.599800 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 703637459 present in the list? True
+Number of accesses required to search: 27
+
+Time required to search:0.664800 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 254515928 present in the list? False
+Number of accesses required to search: 28
+Time required to search:0.636300 milliseconds
+_________________________________________________
+_________________________________________________
+Is the 463654484 present in the list? False
+Number of accesses required to search: 28
+Time required to search:0.659900 milliseconds
+_________________________________________________
+Binary Search Statistics
+_________________________________________________
+Average time for successful search: 0.707440 milliseconds
+Average time for unsuccessful search: 0.650880 milliseconds
+Tree construction time: 18453.552 milliseconds
+Current memory usage is 179.785724 MB; Peak was 247.155909 MB

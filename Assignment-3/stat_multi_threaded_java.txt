@@ -1,0 +1,25 @@
+STATS for Mutithreads Merge Sort
+
+Time to read data from file and create 4 unsorted linked list : 3.9768944 seconds
+
+Size of List 1: 1
+Size of List 2: 499644
+Size of List 3: 49958
+Size of List 4: 449074
+
+Time taken by Thread 1 to sort: 8.1E-6seconds
+Time taken by Thread 2 to sort: 0.2112045seconds
+Time taken by Thread 3 to sort: 0.0199829seconds
+Time taken by Thread 4 to sort: 0.1785911seconds
+
+Total Time taken to sort linked lists: 0.2119545seconds
+
+Number of iteration done by Thread 1 to sort: 1
+Number of iteration done by Thread 2 to sort: 1498930
+Number of iteration done by Thread 3 to sort: 149872
+Number of iteration done by Thread 4 to sort: 1347220
+Total number of iteration done to sort: 2996023
+
+Total Memory Usage to sort: 24MB
+
+Total Execution time: 4.6548849seconds

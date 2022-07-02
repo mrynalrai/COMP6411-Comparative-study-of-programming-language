@@ -1,0 +1,26 @@
+Time to read data from file and create 4 unsorted linked list : 3.7626236 seconds
+
+Size of List1: 1
+Size of List2: 499644
+Size of List3: 49958
+Size of List4: 449074
+Time taken to sort list 1: 1.13E-5seconds
+Time taken to sort list 2: 0.1682053seconds
+Time taken to sort list 3: 0.0109995seconds
+Time taken to sort list 4: 0.1325692seconds
+
+Total Time taken to sort linked lists: 0.3117853seconds
+
+Number of iteration to sort list 1 1
+
+Number of iteration to sort list 2 1498930
+
+Number of iteration to sort list 3 149872
+
+Number of iteration to sort list 4 1347220
+
+Total Number of iterations done to sort: 2996023
+
+Total Memory Usage to sort: 23MB
+
+Total Speed of Execution: 4.9464783seconds

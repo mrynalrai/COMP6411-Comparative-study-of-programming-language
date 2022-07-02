@@ -1,0 +1,21 @@
+Time to populate unsorted linked list: 80.602574 seconds
+Size of List1: 1 
+Size of List2: 499644 
+Size of List3: 49958 
+Size of List4: 449074 
+------------------------------------------------------------------------
+Time taken by Thread 1 to sort: 0.000147 seconds
+Time taken by Thread 2 to sort: 18.707961 seconds
+Time taken by Thread 3 to sort: 3.573447 seconds
+Time taken by Thread 4 to sort: 17.800157 seconds
+Total Time to sort linked lists: 18.709545 seconds
+------------------------------------------------------------------------
+Number of iteration done by Thread 1 to sort: 1
+Number of iteration done by Thread 2 to sort: 1498930
+Number of iteration done by Thread 3 to sort: 149872
+Number of iteration done by Thread 4 to sort: 1347220
+Total Number of iterations done to sort: 2996023
+------------------------------------------------------------------------
+Total Memory Usage to sort: 0.038413 MB
+------------------------------------------------------------------------
+Total Speed of Execution: 100.164982 seconds
